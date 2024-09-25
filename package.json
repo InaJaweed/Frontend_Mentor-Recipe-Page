@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"firebase": "^10.13.1"
+	},
+	"scripts": {
+		"deploy-recipe": "firebase deploy --only hosting:frontendmentor-recipe-page-62856"
+	}
+}
